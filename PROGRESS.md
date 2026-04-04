@@ -13,9 +13,9 @@
 - Reflection:
 
 ## Topics Completed Checklist
-- [ ] Hello World & Setup
-- [ ] Variables & Data Types
-- [ ] Input/Output (printf/scanf)
+- [/] Hello World & Setup
+- [/] Variables & Data Types
+- [/] Input/Output (printf/scanf)
 - [ ] Conditional Statements (if/else/switch)
 - [ ] Loops (for/while/do-while)
 - [ ] Arrays
