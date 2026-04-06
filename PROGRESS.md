@@ -20,7 +20,7 @@
 - [ ] Loops (for/while/do-while)
 - [ ] Arrays
 - [ ] Strings
-- [ ] Functions
+- [/] Functions
 - [ ] Pointers
 - [ ] Dynamic Memory Allocation
 - [ ] Structures & Unions
