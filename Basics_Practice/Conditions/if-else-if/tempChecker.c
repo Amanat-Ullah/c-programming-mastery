@@ -25,7 +25,7 @@ int temp(int check){
         printf("Very cold");
     }
     else if(check<0){
-        printf("Freezing!\n Do not go outside");
+        printf("Freezing!\nDo not go outside");
     }
 }
 
